@@ -153,3 +153,332 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Study With Karan</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #e6f0ff;
+    }
+
+    /* Header */
+    header {
+      background: #1e90ff;
+      color: white;
+      text-align: center;
+      padding: 25px 10px;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    header p {
+      margin: 5px 0 0 0;
+      font-size: 14px;
+    }
+
+    /* Section */
+    section {
+      padding: 15px;
+    }
+
+    /* Cards */
+    .card {
+      background: white;
+      padding: 18px;
+      margin-bottom: 15px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      transition: transform 0.2s;
+    }
+    .card:hover {
+      transform: translateY(-3px);
+    }
+    .card h2 {
+      margin-top: 0;
+      color: #1e90ff;
+      font-size: 18px;
+    }
+    .card p {
+      font-size: 14px;
+      color: #333;
+    }
+    .card a {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 15px;
+      background: #28a745;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background 0.3s;
+    }
+    .card a:hover {
+      background: #218838;
+    }
+
+    /* Button */
+    .whatsapp-btn {
+      width: 100%;
+      padding: 16px;
+      background: #25D366;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 10px;
+      transition: background 0.3s;
+    }
+    .whatsapp-btn:hover {
+      background: #1ebe5d;
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 12px;
+      background: #ddd;
+      font-size: 14px;
+      color: #555;
+      margin-top: 15px;
+      border-radius: 0 0 12px 12px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Study With Karan</h1>
+  <p>D.El.Ed | SSC GD | Bihar Exams</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>📘 Notes</h2>
+    <p>Yahan free notes milenge PDF me. Download karke study karo!</p>
+    <a href="PDF_LINK_HERE" target="_blank">Download Notes</a>
+  </div>
+
+  <div class="card">
+    <h2>📝 Mock Test</h2>
+    <p>Daily practice questions & tests for better preparation.</p>
+    <a href="MCQ_PAGE_LINK" target="_blank">Practice Now</a>
+  </div>
+
+  <div class="card">
+    <h2>📢 Updates</h2>
+    <p>Latest exam notification & news. Updated regularly.</p>
+    <a href="UPDATE_LINK_HERE" target="_blank">View Updates</a>
+  </div>
+
+  <button class="whatsapp-btn" onclick="window.location.href='https://wa.me/91XXXXXXXXXX'">
+    Join WhatsApp Group
+  </button>
+</section>
+
+<footer>
+  © 2025 Study With Karan
+</footer>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+  <title>Study With Karan</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #e6f0ff;
+    }
+
+    /* Header */
+    header {
+      background: #1e90ff;
+      color: white;
+      text-align: center;
+      padding: 20px 10px;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 26px;
+    }
+    header p {
+      margin: 5px 0 0 0;
+      font-size: 14px;
+    }
+
+    /* Section */
+    section {
+      padding: 15px;
+    }
+
+    /* Cards */
+    .card {
+      background: white;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      transition: transform 0.2s;
+    }
+    .card:hover {
+      transform: translateY(-3px);
+    }
+    .card h2 {
+      margin-top: 0;
+      color: #1e90ff;
+      font-size:https://wa.me/91XXXXXXXXXX<!DOCTYPE html>
+<html>
+<head>
+  <title>Study With Karan</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Body & Background */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #c3ecff, #b1ffd4);
+    }
+
+    /* Header */
+    header {
+      background: #1e90ff;
+      color: white;
+      text-align: center;
+      padding: 25px 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    header p {
+      margin: 5px 0 0 0;
+      font-size: 14px;
+    }
+
+    /* Section */
+    section {
+      padding: 15px;
+    }
+
+    /* Cards */
+    .card {
+      background: white;
+      padding: 18px;
+      margin-bottom: 15px;
+      border-radius: 15px;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    }
+    .card h2 {
+      margin-top: 0;
+      color: #1e90ff;
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+    }
+    .card h2 span {
+      margin-right: 8px;
+      font-size: 22px;
+    }
+    .card p {
+      font-size: 14px;
+      color: #333;
+      margin: 8px 0;
+    }
+    .card a {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 12px 18px;
+      background: #28a745;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      transition: background 0.3s, transform 0.2s;
+    }
+    .card a:hover {
+      background: #218838;
+      transform: scale(1.05);
+    }
+
+    /* WhatsApp Button */
+    .whatsapp-btn {
+      width: 100%;
+      padding: 16px;
+      background: #25D366;
+      color: white;
+      border: none;
+      border-radius: 12px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 10px;
+      transition: background 0.3s, transform 0.2s;
+    }
+    .whatsapp-btn:hover {
+      background: #1ebe5d;
+      transform: scale(1.02);
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 14px;
+      background: #ddd;
+      font-size: 14px;
+      color: #555;
+      margin-top: 15px;
+      border-radius: 0 0 15px 15px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Study With Karan</h1>
+  <p>D.El.Ed | SSC GD | Bihar Exams</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2><span>📘</span>Notes</h2>
+    <p>Yahan free notes milenge PDF me. Download karke study karo!</p>
+    <a href="PDF_LINK_HERE" target="_blank">Download Notes</a>
+  </div>
+
+  <div class="card">
+    <h2><span>📝</span>Mock Test</h2>
+    <p>Daily practice questions & tests for better preparation.</p>
+    <a href="MCQ_PAGE_LINK" target="_blank">Practice Now</a>
+  </div>
+
+  <div class="card">
+    <h2><span>📢</span>Updates</h2>
+    <p>Latest exam notification & news. Updated regularly.</p>
+    <a href="UPDATE_LINK_HERE" target="_blank">View Updates</a>
+  </div>
+
+  <button class="whatsapp-btn" onclick="window.location.href='https://wa.me/91XXXXXXXXXX'">
+    Join WhatsApp Group
+  </button>
+</section>
+
+<footer>
+  © 2025 Study With Karan
+</footer>
+
+</body>
+</html>
