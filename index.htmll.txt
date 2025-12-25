@@ -75,4 +75,81 @@
 </footer>
 
 </body>
+</html> <!DOCTYPE html>
+<html>
+<head>
+  <title>Study With Karan</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial;
+      background: #f2f6ff;
+    }
+    header {
+      background: #1e90ff;
+      color: white;
+      padding: 15px;
+      text-align: center;
+    }
+    section {
+      padding: 15px;
+    }
+    .card {
+      background: white;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 8px;
+      box-shadow: 0 0 5px #ccc;
+    }
+    button {
+      width: 100%;
+      padding: 12px;
+      background: green;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 16px;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background: #ddd;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Study With Karan</h1>
+  <p>D.El.Ed | SSC GD | Bihar Exams</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>📘 Notes</h2>
+    <p>Yahan free notes milenge PDF me</p>
+  </div>
+
+  <div class="card">
+    <h2>📝 Mock Test</h2>
+    <p>Daily practice questions & tests</p>
+  </div>
+
+  <div class="card">
+    <h2>📢 Updates</h2>
+    <p>Latest exam notification & news</p>
+  </div>
+
+  <button onclick="window.location.href='https://wa.me/91XXXXXXXXXX'">
+    WhatsApp Join
+  </button>
+</section>
+
+<footer>
+  © 2025 Study With Karan
+</footer>
+
+</body>
 </html>
